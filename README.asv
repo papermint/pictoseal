@@ -20,10 +20,5 @@ Send secret messages inside pictures
 </ul>
 <h2>UI</h2>
 <ul>
-<li>load png, should appear</li>
-<li>pick one or more ten hidden images to embed</li>
-<li>button/list of embedding techniques to apply to images needed to be hidden</li>
-<li>save result</li>
-<li>load embedded image</li>
-<li>extract hidden images</li>
+<li>load </li>
 </ul>

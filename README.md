@@ -1,5 +1,5 @@
 # pictoseal
-Send secret messages inside pictures
+Send secret messages inside pictures.
 <h2>Flattening Images</h2>
 <ul>
 <li>create flatten function</li>
